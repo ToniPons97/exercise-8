@@ -1,0 +1,11 @@
+@import url('style.css');
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+#orange {
+    flex-grow: 1;
+}
